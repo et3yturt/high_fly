@@ -99,6 +99,8 @@ Created as a Python/Pygame learning project to explore:
 Sprite systems
 Collision detection
 Event timers
+<img width="1194" height="792" alt="image" src="https://github.com/user-attachments/assets/ed9adc63-a005-42b4-94dc-2c7aee7f38d2" />
+
 Game loops
 Object-oriented programming
 
